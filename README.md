@@ -1,3 +1,24 @@
+# 🌿 GreenNirman
+### India's District-Level Green Building Assessment Platform
+ 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-greennirman--in.netlify.app-brightgreen?style=for-the-badge&logo=netlify)](https://greennirman-in.netlify.app)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
+[![Districts](https://img.shields.io/badge/Districts-758%20All%20India-orange?style=for-the-badge)](#)
+[![Materials](https://img.shields.io/badge/Materials-72%20Verified-green?style=for-the-badge)](#)
+[![Standards](https://img.shields.io/badge/Standards-24%20Indian%20%26%20International-blue?style=for-the-badge)](#)
+ 
+> Empowering architects, engineers, and homeowners to make sustainable building decisions — district-specific, standards-compliant, and openly accessible across all 758 Indian districts.
+ 
+---
+ 
+## 🌐 Live Platform
+ 
+**[greennirman-in.netlify.app](https://greennirman-in.netlify.app)**
+ 
+Works on mobile, tablet, and desktop. Runs entirely in the browser — no installation, no backend, no data upload.
+ 
+---
+
 ## 🏗️ What Is GreenNirman?
  
 GreenNirman is a **district-level green building assessment platform** built specifically for India's construction sector. It helps architects, civil engineers, urban local bodies, housing developers, and homeowners evaluate how sustainable their building design is — before a single brick is laid.
