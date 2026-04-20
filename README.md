@@ -28,7 +28,7 @@ The user selects their district, enters building details, picks materials across
 - Estimates a **GRIHA star rating** (1–5 stars)
 - Runs a **10-point ECBC 2017 compliance check** with pass/fail per parameter
 - Computes **25-year lifecycle costs and energy savings**
-- Generates a **professional 8-page PDF assessment report** — downloadable directly in the browser
+- Generates a **professional 10-page PDF assessment report** — downloadable directly in the browser
  
 All calculations happen **client-side in real time**. No project data is stored or transmitted anywhere.
  
