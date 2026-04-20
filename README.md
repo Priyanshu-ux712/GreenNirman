@@ -43,7 +43,7 @@ All calculations happen **client-side in real time**. No project data is stored 
 | Result analysis tabs | 17 |
 | Compliance standards | 24 Indian + international |
 | Input fields | 24 |
-| PDF report pages | 8 |
+| PDF report pages | 10 |
 | Climate data coverage | 670 districts — NASA POWER 21-year averages (2000–2020) |
 | Offline capable | ✅ Yes — works without internet after first load |
 | URL sharing | ✅ Yes — all inputs encoded into a shareable link |
